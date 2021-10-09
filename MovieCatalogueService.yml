@@ -4,3 +4,7 @@ server:
 spring:
   application: 
     name: MOVIECATALOGUESERVICE
+    
+my: 
+  propertyfile: 
+    value: Welcome to Spring Boot from MovieCatalogService GitHub repo

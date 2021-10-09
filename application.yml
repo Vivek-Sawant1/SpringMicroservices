@@ -1,0 +1,5 @@
+my: 
+  propertyfile: 
+    value: Welcome to Spring Boot
+    listOfMovies: Raaz,Krish,Darr
+    mapOfmovies: "{Raaz: 'old movie', Krish: '2', Darr: 'Shahrukh movie'}"

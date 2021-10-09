@@ -1,11 +1,11 @@
 my: 
   propertyfile: 
-    value: Welcome to Spring Boot
-    listOfMovies: Raaz,Krish,Darr
+    value: Welcome to Spring Boot from GitHub config
+    listOfMovies: Raaz,Krish,Darr, From GitHub config
     mapOfmovies: "{Raaz: 'old movie', Krish: '2', Darr: 'Shahrukh movie'}"
     
 db:
-  connectionUrl: http://localdb:8090/
-  username: admin
-  password: pass
-  hostname: localDB
+  connectionUrl: http://localdb:8090/githubconfig
+  username: admin_githubconfig
+  password: pass_githubconfig
+  hostname: localDB_githubconfig

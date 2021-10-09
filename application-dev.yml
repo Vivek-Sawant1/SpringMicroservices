@@ -1,0 +1,5 @@
+db: 
+  connectionUrl: http://localdb:8090/devfromgithub
+  username: admindevfromgithub
+  password: passdevfromgithub
+  hostname: devDBfromgithub

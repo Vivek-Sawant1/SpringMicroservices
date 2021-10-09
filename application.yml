@@ -9,3 +9,6 @@ db:
   username: admin_githubconfig
   password: pass_githubconfig
   hostname: localDB_githubconfig
+  
+management.endpoints.web.exposure.include: hystrix.stream
+eureka.instance.prefer-ip-address: true

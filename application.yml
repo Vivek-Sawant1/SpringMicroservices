@@ -1,14 +1,14 @@
 my: 
   propertyfile: 
-    value: Welcome to Spring Boot from GitHub config 2
-    listOfMovies: Raaz,Krish,Darr, From GitHub config 2
-    mapOfmovies: "{Raaz: 'old movie', Krish: '2', Darr: 'Shahrukh movie'}"
+    value: Welcome to Spring Boot from GitHub config 3
+    listOfMovies: Raaz,Krish,Darr, From GitHub config 3
+    mapOfmovies: "{Raaz: 'old movie', Krish: '2', Darr: 'Shahrukh movie3'}"
     
 db:
-  connectionUrl: http://localdb:8090/githubconfig2
-  username: admin_githubconfig2
-  password: pass_githubconfig2
-  hostname: localDB_githubconfig2
+  connectionUrl: http://localdb:8090/githubconfig3
+  username: admin_githubconfig3
+  password: pass_githubconfig3
+  hostname: localDB_githubconfig3
   
 management.endpoints.web.exposure.include: "*"
 eureka.instance.prefer-ip-address: true

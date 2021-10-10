@@ -10,5 +10,5 @@ db:
   password: pass_githubconfig2
   hostname: localDB_githubconfig2
   
-management.endpoints.web.exposure.include: *
+management.endpoints.web.exposure.include: "*"
 eureka.instance.prefer-ip-address: true

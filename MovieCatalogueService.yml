@@ -7,5 +7,5 @@ spring:
     
 my: 
   propertyfile: 
-    value1: Welcome to Spring Boot from MovieCatalogService.yml GitHub repo2
-    specificProp: This property is only present in MovieCatalogService.yml GitHub repo and updated today22.
+    value1: Welcome to Spring Boot from MovieCatalogService.yml GitHub repo3
+    specificProp: This property is only present in MovieCatalogService.yml GitHub repo and updated today3.
